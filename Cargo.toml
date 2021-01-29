@@ -1,11 +1,11 @@
 [package]
 name = "nostdhf"
 description = "Polyfills the missing methods on f32 and f64 in no_std environments"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["longfangsong <longfangsong@icloud.com>"]
 edition = "2018"
 license = "Unlicense"
-
+repository = "https://github.com/longfangsong/nostdhf"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
